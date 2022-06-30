@@ -2,7 +2,7 @@
   {
     "id": 1,
     "Servicetitle": "Crown & Bridge",
-    "homeServiceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/IMG_5120-1.png",
+    "serviceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/IMG_5120-1.png",
     "iconDescription": [
       "Zirconia Shade Guide",
       "Full-Strength Zirconia",
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "Servicetitle": "Implant Restoration",
-    "ServiceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/DSC_0310-1.jpg",
+    "serviceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/DSC_0310-1.jpg",
     "iconDescription": [
       "Zirconia Shade Guide",
       "Full-Strength Zirconia",
@@ -28,7 +28,7 @@
   {
     "id": 3,
     "Servicetitle": "Custom Shade Service",
-    "ServiceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/DSC_0296-1.jpg",
+    "serviceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/DSC_0296-1.jpg",
     "iconDescription": [
       "Zirconia Shade Guide",
       "Full-Strength Zirconia",
@@ -41,7 +41,7 @@
   {
     "id": 4,
     "Servicetitle": "Veeners",
-    "ServiceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/DSC_0042-1.jpg",
+    "serviceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/DSC_0042-1.jpg",
     "iconDescription": [
       "Zirconia Shade Guide",
       "Full-Strength Zirconia",
@@ -54,7 +54,7 @@
   {
     "id": 5,
     "Servicetitle": "Dental Card Design",
-    "homeServiceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/3D-Printer-EliteDentalStudio-1.jpg",
+    "serviceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/3D-Printer-EliteDentalStudio-1.jpg",
     "iconDescription": [
       "Zirconia Shade Guide",
       "Full-Strength Zirconia",
@@ -67,7 +67,7 @@
   {
     "id": 6,
     "Servicetitle": "Lab To Lab",
-    "homeServiceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/4-1-1.jpg",
+    "serviceImg": "https://www.elitedentalstudiousa.com/wp-content/uploads/2021/12/4-1-1.jpg",
     "iconDescription": [
       "Zirconia Shade Guide",
       "Full-Strength Zirconia",
